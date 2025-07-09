@@ -1,2 +1,1 @@
-# BSE0ZD
-Hayatın anlam ve önemi
+## E-ticaret, ürün ve hizmetlerin internet üzerinden alınıp satılması sürecidir. Teknolojinin gelişmesiyle birlikte, fiziksel mağazaların yerini dijital platformlar almış ve ticaretin küresel sınırları ortadan kalkmıştır. Müşteriler, ürünleri online mağazalardan inceleyip satın alırken, ödeme işlemleri güvenli bir şekilde dijital ortamda gerçekleşir. E-ticaret, işletmelere maliyetleri düşürme, daha geniş müşteri kitlesine ulaşma ve 7/24 satış yapma imkanı tanır. Aynı zamanda, mobil cihazlar üzerinden yapılan alışverişlerle her an her yerden erişim mümkün hale gelir. Pazarlama stratejileri, SEO, sosyal medya ve dijital reklamlarla desteklenerek satışların artması sağlanabilir. E-ticaret, işletmelerin büyümesine büyük katkı sağlar.
